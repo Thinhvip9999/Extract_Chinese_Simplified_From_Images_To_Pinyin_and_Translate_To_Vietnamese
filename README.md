@@ -12,6 +12,13 @@ This application is designed for Chinese learners and was built by a Chinese lea
 
 ## Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Thinhvip9999/Extract_Chinese_Simplified_From_Images_To_Pinyin_and_Translate_To_Vietnamese.git
+
+
+## Installation
+
 1. Open Google Colab.
 2. Upload the `main.ipynb` notebook file to Colab.
 3. Run all cells in the notebook.
